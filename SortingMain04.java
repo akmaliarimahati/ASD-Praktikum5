@@ -4,7 +4,7 @@ public class SortingMain04 {
         int b[] = {30, 20, 2, 8, 14};
 
         Sorting04 dataurut1 = new Sorting04(a, a.length);
-        Sorting04 dataurut2 = new Sorting04(a, a.length);
+        Sorting04 dataurut2 = new Sorting04(b, b.length);
 
         System.out.println("Data Awal 1");
         dataurut1.tampil();
